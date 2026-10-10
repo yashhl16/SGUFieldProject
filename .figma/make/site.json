@@ -1,0 +1,10 @@
+{
+  "description": "Discover and register for college events effortlessly with this user-friendly platform designed for students and administrators to connect and manage activities.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
